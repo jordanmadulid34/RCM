@@ -1,0 +1,92 @@
+{
+  "common": {
+    "siteTitle": "Rotary Club of Makati",
+    "motherClub": "Rotary Club of Makati — បង្កើតឡើងក្នុងឆ្នាំ ១៩៦៦",
+    "motto": "ការបម្រើលើសពីខ្លួនឯង",
+    "applyNow": "ចុះឈ្មោះឥឡូវនេះ",
+    "signIn": "ចូលប្រើ",
+    "signOut": "ចាកចេញ",
+    "search": "ស្វែងរក...",
+    "searchShortcut": "ចុច / ដើម្បីស្វែងរក",
+    "selectCountry": "ជ្រើសរើសប្រទេស",
+    "countryLanguage": "ប្រទេស និង ភាសា",
+    "readMore": "អានបន្ថែម",
+    "viewAll": "មើលទាំងអស់",
+    "close": "បិទ",
+    "cancel": "បោះបង់",
+    "save": "រក្សាទុក",
+    "submit": "ផ្ញើ",
+    "loading": "កំពុងផ្ទុក...",
+    "success": "ជោគជ័យ",
+    "error": "មានកំហុសបានកើតឡើង",
+    "machineTranslatedNotice": "ការបកប្រែជាភាសាខ្មែរត្រូវបានគាំទ្រដោយ AI ។ កំពុងពិនិត្យឡើងវិញដោយអ្នកជំនាញភាសា។"
+  },
+  "nav": {
+    "home": "ទំព័រដើម",
+    "about": "អំពីយើង",
+    "history": "ប្រវត្តិស្ថាប័ន",
+    "leadership": "ថ្នាក់ដឹកនាំ",
+    "presidents": "បញ្ជីប្រធាន",
+    "fourWayTest": "ការសាកល្បង ៤ យ៉ាង",
+    "projects": "គម្រោង",
+    "areasOfFocus": "៧ វិស័យផ្តោតសំខាន់",
+    "sisterClubs": "ក្លិបសម្ព័ន្ធមិត្ត",
+    "news": "ព័ត៌មាន",
+    "kaunlaran": "ព្រឹត្តិបត្រ Kaunlaran",
+    "membership": "សមាជិកភាព",
+    "memberPortal": "ផតថលសមាជិក",
+    "directory": "បញ្ជីឈ្មោះសមាជិក",
+    "contact": "ទំនាក់ទំនង",
+    "adminDashboard": "ផ្ទាំងគ្រប់គ្រង"
+  },
+  "hero": {
+    "badge": "Rotary District 3830 • បង្កើតឡើង ១២ មីនា ១៩៦៦",
+    "heading": "ការបម្រើលើសពីខ្លួនឯងឆ្លងជំនាន់",
+    "subheading": "Rotary Club of Makati ដឹកនាំការបម្រើសហគមន៍ ការដឹកនាំដោយសីលធម៌ និងគម្រោងមនុស្សធម៌សកលជាង ៦០ ឆ្នាំ។",
+    "ctaExplore": "ស្វែងយល់ពីផលប៉ះពាល់",
+    "ctaJoin": "ចូលរួមជា Rotarian",
+    "meetingPill": "ជំនួបប្រចាំសប្តាហ៍៖ រៀងរាល់ថ្ងៃអង្គារ ម៉ោង ១២:០០ ថ្ងៃត្រង់ • Manila Peninsula"
+  },
+  "about": {
+    "title": "អំពី Rotary Club of Makati",
+    "subtitle": "បេតិកភណ្ឌនៃការដឹកនាំដោយសីលធម៌ និងមិត្តភាពសកល។",
+    "established": "បង្កើតឡើងក្នុងឆ្នាំ ១៩៦៦ ជាក្លិបបម្រើសហគមន៍ឈានមុខគេ។"
+  },
+  "projects": {
+    "title": "គម្រោងសំខាន់ៗរបស់យើង",
+    "subtitle": "ការផ្លាស់ប្តូរសហគមន៍តាមរយៈ ៧ វិស័យផ្តោតសំខាន់របស់ Rotary។",
+    "viewProject": "មើលព័ត៌មានលម្អិតគម្រោង",
+    "cleanWater": "ទឹកស្អាត និងអនាម័យ",
+    "health": "ការបង្ការ និងព្យាបាលជំងឺ",
+    "education": "អប់រំបឋម និងអក្ខរកម្ម",
+    "environment": "ការគាំទ្របរិស្ថាន",
+    "economic": "ការអភិវឌ្ឍសេដ្ឋកិច្ចសហគមន៍",
+    "maternal": "សុខភាពមាតា និងទារក",
+    "peace": "ការកសាងសន្តិភាព"
+  },
+  "membership": {
+    "title": "ចូលរួមជាមួយ Rotary Club of Makati",
+    "subtitle": "ភ្ជាប់ទំនាក់ទំនងជាមួយថ្នាក់ដឹកនាំ បម្រើសហគមន៍ និងអភិវឌ្ឍខ្លួន។",
+    "applyTitle": "ទម្រង់បែបបទស្នើសុំសមាជិកភាព",
+    "sponsor": "សមាជិកអ្នកធានា",
+    "classification": "ប្រភេទអាជីវកម្ម ឬ វិជ្ជាជីវៈ"
+  },
+  "footer": {
+    "address": "The Conservatory, The Manila Peninsula, Ayala Ave, Makati City",
+    "meetingTime": "រៀងរាល់ថ្ងៃអង្គារ ម៉ោង ១២:០០ ថ្ងៃត្រង់",
+    "rights": "រក្សាសិទ្ធិគ្រប់យ៉ាងដោយ Rotary Club of Makati"
+  },
+  "chatbot": {
+    "title": "RotaBot AI ✨",
+    "subtitle": "ជំនួយការ AI ផ្លូវការរបស់ Rotary Club of Makati",
+    "welcome": "សួស្តី! ខ្ញុំគឺ RotaBot AI ✨។ តើខ្ញុំអាចជួយអ្នកយ៉ាងដូចម្តេច?",
+    "inputPlaceholder": "សួរសំណួរអំពី RCM...",
+    "voiceOn": "បើកសំឡេង",
+    "voiceOff": "បិទសំឡេង",
+    "textFallbackNotice": "របៀបអត្ថបទកំពុងដំណើរការសម្រាប់ភាសានេះ។",
+    "suggested1": "តើជំនួបប្រចាំសប្តាហ៍ធ្វើឡើងនៅពេលណា និងនៅឯណា?",
+    "suggested2": "តើខ្ញុំត្រូវដាក់ពាក្យសុំសមាជិកភាពយ៉ាងដូចម្តេច?",
+    "suggested3": "តើអ្នកណាជាប្រធាន RCM បច្ចុប្បន្ន?",
+    "suggested4": "តើអ្វីជាគម្រោងសំខាន់ៗរបស់ RCM?"
+  }
+}

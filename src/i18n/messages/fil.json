@@ -1,0 +1,92 @@
+{
+  "common": {
+    "siteTitle": "Rotary Club of Makati",
+    "motherClub": "Ang Ina ng mga Samahan sa Makati — Itinatag noong 1966",
+    "motto": "Serbisyo Bago ang Sarili",
+    "applyNow": "Mag-apply Ngayon",
+    "signIn": "Mag-sign In",
+    "signOut": "Mag-sign Out",
+    "search": "Maghanap...",
+    "searchShortcut": "Pindutin ang / upang maghanap",
+    "selectCountry": "Pumili ng Bansa",
+    "countryLanguage": "Bansa at Wika",
+    "readMore": "Magbasa Pa",
+    "viewAll": "Tingnan Lahat",
+    "close": "Isara",
+    "cancel": "Kanselahin",
+    "save": "I-save",
+    "submit": "Ipadala",
+    "loading": "Naglo-load...",
+    "success": "Matagumpay",
+    "error": "Nagkaroon ng error",
+    "machineTranslatedNotice": "Ang mga pagsasalin sa wikang Filipino ay inihanda gamit ang AI. Sumasailalim sa pagsusuri ng mga eksperto sa wika."
+  },
+  "nav": {
+    "home": "Tahanan",
+    "about": "Tungkol sa Amin",
+    "history": "Kasaysayan ng Samahan",
+    "leadership": "Opisyal at Lupon",
+    "presidents": "Listahan ng mga Pangulo",
+    "fourWayTest": "Apat na Paraang Pagsubok",
+    "projects": "Mga Proyekto",
+    "areasOfFocus": "7 Larangan ng Pokus",
+    "sisterClubs": "Mga Pakikipag-alyansa",
+    "news": "Balita at Balitaan",
+    "kaunlaran": "Kaunlaran Bulletin",
+    "membership": "Pagsapi",
+    "memberPortal": "Portal ng Kasapi",
+    "directory": "Direktoryo ng Kasapi",
+    "contact": "Makipag-ugnayan",
+    "adminDashboard": "Control ng Admin"
+  },
+  "hero": {
+    "badge": "Rotary District 3830 • Itinatag noong Marso 12, 1966",
+    "heading": "Serbisyo Bago ang Sarili sa Bawat Henerasyon",
+    "subheading": "Ang Ina ng Samahan sa Makati na nangunguna sa makabuluhang serbisyo sa komunidad, etikal na pamumuno, at pangkalahatang proyektong pangkawanggawa sa loob ng higit 60 taon.",
+    "ctaExplore": "Tingnan ang Aming Impak",
+    "ctaJoin": "Maging Rotarian",
+    "meetingPill": "Lingguhang Salo-salo: Martes @ 12:00 PM • The Conservatory, Manila Peninsula"
+  },
+  "about": {
+    "title": "Tungkol sa Rotary Club of Makati",
+    "subtitle": "Isang pamana ng etikal na pamumuno, pagpapalakas ng komunidad, at pandaigdigang pakikipagkaibigan.",
+    "established": "Itinatag noong 1966 bilang pangunahing samahang pangkawanggawa sa District 3830."
+  },
+  "projects": {
+    "title": "Aming mga Pangunahing Proyekto",
+    "subtitle": "Pagtulong sa mga komunidad sa 7 Larangan ng Pokus ng Rotary.",
+    "viewProject": "Tingnan ang Detalye ng Proyekto",
+    "cleanWater": "Malinis na Tubig at Kalinisan",
+    "health": "Pag-iwas at Gamot sa Sakit",
+    "education": "Edukasyon at Pagbasa",
+    "environment": "Pangangalaga sa Kalikasan",
+    "economic": "Pag-unlad ng Kabuhayan",
+    "maternal": "Kalusugan ng Ina at Sanggol",
+    "peace": "Pagpapanatili ng Kapayapaan"
+  },
+  "membership": {
+    "title": "Sumali sa Rotary Club of Makati",
+    "subtitle": "Makipag-ugnayan sa mga pinuno, maglingkod sa komunidad, at lumago sa karera.",
+    "applyTitle": "Pormularyo sa Pagsapi",
+    "sponsor": "Sponsor na Kasapi",
+    "classification": "Uri ng Negosyo o Propesyon"
+  },
+  "footer": {
+    "address": "The Conservatory, The Manila Peninsula, Ayala Ave cor. Makati Ave, Makati City",
+    "meetingTime": "Tuwing Martes, 12:00 PM (Tanghali)",
+    "rights": "Lahat ng Karapatan ay Nakalaan. Rotary Club of Makati."
+  },
+  "chatbot": {
+    "title": "RotaBot AI ✨",
+    "subtitle": "Opisyal na AI Assistant ng Rotary Club of Makati",
+    "welcome": "Kumusta! Ako si RotaBot AI ✨. Paano ko kayo matutulungan hinggil sa aming pagpupulong, pagsapi, o mga proyekto?",
+    "inputPlaceholder": "Magtanong tungkol sa RCM...",
+    "voiceOn": "Boses ay nakabukas",
+    "voiceOff": "Boses ay nakapatay",
+    "textFallbackNotice": "Text-only mode ang ginagamit sa kasalukuyang wika.",
+    "suggested1": "Kailan at saan ang lingguhang pagpupulong?",
+    "suggested2": "Paano mag-apply para maging kasapi?",
+    "suggested3": "Sino ang kasalukuyang Pangulo ng RCM?",
+    "suggested4": "Ano-ano ang pangunahing proyekto ng RCM?"
+  }
+}

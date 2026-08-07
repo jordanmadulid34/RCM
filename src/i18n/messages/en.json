@@ -1,0 +1,92 @@
+{
+  "common": {
+    "siteTitle": "Rotary Club of Makati",
+    "motherClub": "The Mother Club of Makati — Chartered 1966",
+    "motto": "Service Above Self",
+    "applyNow": "Apply Now",
+    "signIn": "Sign In",
+    "signOut": "Sign Out",
+    "search": "Search...",
+    "searchShortcut": "Press / to search",
+    "selectCountry": "Select Country",
+    "countryLanguage": "Country & Language",
+    "readMore": "Read More",
+    "viewAll": "View All",
+    "close": "Close",
+    "cancel": "Cancel",
+    "save": "Save",
+    "submit": "Submit",
+    "loading": "Loading...",
+    "success": "Success",
+    "error": "An error occurred",
+    "machineTranslatedNotice": "Translations for non-English locales are AI-assisted. Native speaker verification pending."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "history": "Club History",
+    "leadership": "Board & Officers",
+    "presidents": "Roster of Presidents",
+    "fourWayTest": "4-Way Test",
+    "projects": "Projects",
+    "areasOfFocus": "7 Areas of Focus",
+    "sisterClubs": "Partnerships",
+    "news": "News & Bulletins",
+    "kaunlaran": "Kaunlaran Bulletin",
+    "membership": "Membership",
+    "memberPortal": "Member Portal",
+    "directory": "Member Directory",
+    "contact": "Contact Us",
+    "adminDashboard": "Admin Control"
+  },
+  "hero": {
+    "badge": "Rotary District 3830 • Chartered March 12, 1966",
+    "heading": "Service Above Self Across Generations",
+    "subheading": "The Mother Club of Makati leading impactful community service, ethical leadership, and global humanitarian projects for over 60 years.",
+    "ctaExplore": "Explore Our Impact",
+    "ctaJoin": "Become a Rotarian",
+    "meetingPill": "Weekly Luncheon: Tuesdays @ 12:00 PM • The Conservatory, Manila Peninsula"
+  },
+  "about": {
+    "title": "About Rotary Club of Makati",
+    "subtitle": "A legacy of ethical leadership, community empowerment, and global fellowship.",
+    "established": "Established in 1966 as District 3830's premier service club."
+  },
+  "projects": {
+    "title": "Our Flagship Projects",
+    "subtitle": "Transforming communities across the 7 Rotary Areas of Focus.",
+    "viewProject": "View Project Details",
+    "cleanWater": "Water, Sanitation & Hygiene",
+    "health": "Disease Prevention & Treatment",
+    "education": "Basic Education & Literacy",
+    "environment": "Supporting the Environment",
+    "economic": "Community Economic Development",
+    "maternal": "Maternal & Child Health",
+    "peace": "Peacebuilding & Conflict Prevention"
+  },
+  "membership": {
+    "title": "Join Rotary Club of Makati",
+    "subtitle": "Connect with leaders, serve the community, and grow personally and professionally.",
+    "applyTitle": "Membership Application Form",
+    "sponsor": "Sponsoring Member",
+    "classification": "Business or Professional Classification"
+  },
+  "footer": {
+    "address": "The Conservatory, The Manila Peninsula, Ayala Ave cor. Makati Ave, Makati City",
+    "meetingTime": "Every Tuesday, 12:00 PM (Noon)",
+    "rights": "All Rights Reserved. Rotary Club of Makati."
+  },
+  "chatbot": {
+    "title": "RotaBot AI ✨",
+    "subtitle": "Official AI Assistant for Rotary Club of Makati",
+    "welcome": "Hello! I am RotaBot AI ✨. How can I assist you with meeting schedules, membership, or club projects today?",
+    "inputPlaceholder": "Ask a question about RCM...",
+    "voiceOn": "Voice synthesis active",
+    "voiceOff": "Voice muted",
+    "textFallbackNotice": "Text-only response active for this language locale.",
+    "suggested1": "When and where is the weekly meeting?",
+    "suggested2": "How do I apply for membership?",
+    "suggested3": "Who is the current President of RCM?",
+    "suggested4": "What are RCM's main community projects?"
+  }
+}

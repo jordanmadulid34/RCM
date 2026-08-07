@@ -1,0 +1,92 @@
+{
+  "common": {
+    "siteTitle": "Rotary Club of Makati",
+    "motherClub": "O Clube Mãe de Makati — Fundado em 1966",
+    "motto": "Dar de Si Antes de Pensar em Si",
+    "applyNow": "Inscreva-se Agora",
+    "signIn": "Entrar",
+    "signOut": "Sair",
+    "search": "Pesquisar...",
+    "searchShortcut": "Pressione / para pesquisar",
+    "selectCountry": "Selecionar País",
+    "countryLanguage": "País e Idioma",
+    "readMore": "Ler Mais",
+    "viewAll": "Ver Todos",
+    "close": "Fechar",
+    "cancel": "Cancelar",
+    "save": "Salvar",
+    "submit": "Enviar",
+    "loading": "Carregando...",
+    "success": "Sucesso",
+    "error": "Ocorreu um erro",
+    "machineTranslatedNotice": "A tradução em português é assistida por IA."
+  },
+  "nav": {
+    "home": "Início",
+    "about": "Sobre Nós",
+    "history": "História do Clube",
+    "leadership": "Conselho e Diretores",
+    "presidents": "Lista de Presidentes",
+    "fourWayTest": "Prova Quádrupla",
+    "projects": "Projetos",
+    "areasOfFocus": "7 Áreas de Enfoque",
+    "sisterClubs": "Clubes Irmãos",
+    "news": "Notícias e Boletins",
+    "kaunlaran": "Boletim Kaunlaran",
+    "membership": "Admissão",
+    "memberPortal": "Portal do Membro",
+    "directory": "Diretório de Membros",
+    "contact": "Contato",
+    "adminDashboard": "Administração"
+  },
+  "hero": {
+    "badge": "Rotary Distrito 3830 • Fundado em 12 de Março de 1966",
+    "heading": "Dar de Si Antes de Pensar em Si Através das Gerações",
+    "subheading": "O Clube Mãe de Makati liderando projetos comunitários e humanitários há mais de 60 anos.",
+    "ctaExplore": "Explore Nosso Impacto",
+    "ctaJoin": "Torne-se um Rotariano",
+    "meetingPill": "Reunião Semanal: Terças-feiras às 12:00 • The Conservatory, Manila Peninsula"
+  },
+  "about": {
+    "title": "Sobre o Rotary Club of Makati",
+    "subtitle": "Um legado de liderança ética, fortalecimento comunitário e companheirismo global.",
+    "established": "Fundado em 1966."
+  },
+  "projects": {
+    "title": "Nossos Principais Projetos",
+    "subtitle": "Transformando comunidades nas 7 Áreas de Enfoque do Rotary.",
+    "viewProject": "Ver Detalhes do Projeto",
+    "cleanWater": "Água Potável, Saneamento e Higiene",
+    "health": "Prevenção e Tratamento de Doenças",
+    "education": "Educação Básica e Alfabetização",
+    "environment": "Apoio ao Meio Ambiente",
+    "economic": "Desenvolvimento Econômico Comunitário",
+    "maternal": "Saúde Materno-Infantil",
+    "peace": "Paz e Prevenção de Conflitos"
+  },
+  "membership": {
+    "title": "Junte-se ao Rotary Club of Makati",
+    "subtitle": "Conecte-se com líderes, sirva à comunidade e desenvolva-se profissionalmente.",
+    "applyTitle": "Formulário de Admissão",
+    "sponsor": "Membro Padrinho",
+    "classification": "Classificação Profissional"
+  },
+  "footer": {
+    "address": "The Conservatory, The Manila Peninsula, Ayala Ave, Makati City",
+    "meetingTime": "Todas as Terças-feiras, 12:00",
+    "rights": "Todos os Direitos Reservados. Rotary Club of Makati."
+  },
+  "chatbot": {
+    "title": "RotaBot AI ✨",
+    "subtitle": "Assistente Oficial de IA do Rotary Club of Makati",
+    "welcome": "Olá! Sou o RotaBot AI ✨. Como posso ajudar com reuniões, admissão ou projetos?",
+    "inputPlaceholder": "Faça uma pergunta...",
+    "voiceOn": "Voz ativada",
+    "voiceOff": "Voz desativada",
+    "textFallbackNotice": "Modo de texto ativo para este idioma.",
+    "suggested1": "Quando e onde é a reunião semanal?",
+    "suggested2": "Como solicitar a admissão?",
+    "suggested3": "Quem é o atual Presidente do RCM?",
+    "suggested4": "Quais são os principais projetos?"
+  }
+}

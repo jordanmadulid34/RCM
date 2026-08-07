@@ -1,0 +1,92 @@
+{
+  "common": {
+    "siteTitle": "Rotary Club of Makati",
+    "motherClub": "Klube Inan Makati — Estabelese iha 1966",
+    "motto": "Servisu A'as Liu An",
+    "applyNow": "Aplica Agora",
+    "signIn": "Loke Sesaun",
+    "signOut": "Sai Sesaun",
+    "search": "Buka...",
+    "searchShortcut": "Hanehan / atu buka",
+    "selectCountry": "Hili Rai",
+    "countryLanguage": "Rai & Lingua",
+    "readMore": "Lee Tan",
+    "viewAll": "Hare'e Hotu",
+    "close": "Taka",
+    "cancel": "Kansela",
+    "save": "Rai",
+    "submit": "Haruka",
+    "loading": "Karsega...",
+    "success": "Susesu",
+    "error": "Moo ruma erradu",
+    "machineTranslatedNotice": "Tradusaun Tetun hetan suporta husi AI."
+  },
+  "nav": {
+    "home": "Uma",
+    "about": "Kona-ba Ami",
+    "history": "Istória Klube",
+    "leadership": "Lideransa & Diretor",
+    "presidents": "Lista Prezidente",
+    "fourWayTest": "Testu Dalan Hitu",
+    "projects": "Projetu",
+    "areasOfFocus": "Área Fokus 7",
+    "sisterClubs": "Klube Maun-Alin",
+    "news": "Notísia & Buletin",
+    "kaunlaran": "Buletin Kaunlaran",
+    "membership": "Membru",
+    "memberPortal": "Portal Membru",
+    "directory": "Diretóriu Membru",
+    "contact": "Kontaktu Ami",
+    "adminDashboard": "Kontrolu Admin"
+  },
+  "hero": {
+    "badge": "Rotary Distritu 3830 • Estabelese 12 Marsu 1966",
+    "heading": "Servisu A'as Liu An ba Jerasaun Hotu",
+    "subheading": "Klube Inan Makati lidera servisu komunitáriu no projetu umanitáriu global liu tinan 60.",
+    "ctaExplore": "Haree Ami-nia Impaktu",
+    "ctaJoin": "Sai Rotarianu",
+    "meetingPill": "Enkontru Semanál: Tersi-Feira @ 12:00 Meudia • Manila Peninsula"
+  },
+  "about": {
+    "title": "Kona-ba Rotary Club of Makati",
+    "subtitle": "Eradansa lideransa étika no amizade global.",
+    "established": "Estabelese iha 1966."
+  },
+  "projects": {
+    "title": "Ami-nia Projetu Sira",
+    "subtitle": "Transforma komunidade liu husi Área Fokus 7.",
+    "viewProject": "Haree Detalla Projetu",
+    "cleanWater": "Bé Mós & Ijiene",
+    "health": "Prevensaun Moras",
+    "education": "Edukasaun Bázika",
+    "environment": "Proteje Meiu Ambiente",
+    "economic": "Dezenvolvimentu Ekonomia",
+    "maternal": "Saúde Inan no Otan",
+    "peace": "Kria Sosegu no Páz"
+  },
+  "membership": {
+    "title": "Junta ho Rotary Club of Makati",
+    "subtitle": "Konekta ho lider sira no serví komunidade.",
+    "applyTitle": "Formuláriu Aplikasaun Membru",
+    "sponsor": "Membru Sponsór",
+    "classification": "Klasifikasaun Negósiu"
+  },
+  "footer": {
+    "address": "The Conservatory, Manila Peninsula, Makati City",
+    "meetingTime": "Semanál Tersi-Feira 12:00 Meudia",
+    "rights": "Direitu Hotu Sira Rai. Rotary Club of Makati."
+  },
+  "chatbot": {
+    "title": "RotaBot AI ✨",
+    "subtitle": "Asistente AI Ofisiál Rotary Club of Makati",
+    "welcome": "Olá! Ha'u RotaBot AI ✨. Oinsá ha'u bele ajudou?",
+    "inputPlaceholder": "Husu kualkér kestiona...",
+    "voiceOn": "Lian moris",
+    "voiceOff": "Lian mate",
+    "textFallbackNotice": "Modu testu de'it ativu ba lingua ida ne'e.",
+    "suggested1": "Bainhira no iha ne'ebé enkontru semanál?",
+    "suggested2": "Oinsá atu aplica sai membru?",
+    "suggested3": "Sé mak Prezidente RCM agora?",
+    "suggested4": "Saida mak projetu prinsepal sira?"
+  }
+}

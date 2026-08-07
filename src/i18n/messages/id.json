@@ -1,0 +1,92 @@
+{
+  "common": {
+    "siteTitle": "Rotary Club of Makati",
+    "motherClub": "Klub Induk Makati — Didirikan tahun 1966",
+    "motto": "Pelayanan di Atas Kepentingan Diri",
+    "applyNow": "Daftar Sekarang",
+    "signIn": "Masuk",
+    "signOut": "Keluar",
+    "search": "Cari...",
+    "searchShortcut": "Tekan / untuk mencari",
+    "selectCountry": "Pilih Negara",
+    "countryLanguage": "Negara & Bahasa",
+    "readMore": "Baca Selengkapnya",
+    "viewAll": "Lihat Semua",
+    "close": "Tutup",
+    "cancel": "Batal",
+    "save": "Simpan",
+    "submit": "Kirim",
+    "loading": "Memuat...",
+    "success": "Berhasil",
+    "error": "Terjadi kesalahan",
+    "machineTranslatedNotice": "Terjemahan Bahasa Indonesia didukung oleh AI. Dalam peninjauan oleh penerjemah manusia."
+  },
+  "nav": {
+    "home": "Beranda",
+    "about": "Tentang Kami",
+    "history": "Sejarah Klub",
+    "leadership": "Pengurus & Dewan",
+    "presidents": "Daftar Presiden",
+    "fourWayTest": "Uji 4-Way Test",
+    "projects": "Proyek",
+    "areasOfFocus": "7 Area Fokus",
+    "sisterClubs": "Klub Mitra",
+    "news": "Berita & Buletin",
+    "kaunlaran": "Buletin Kaunlaran",
+    "membership": "Keanggotaan",
+    "memberPortal": "Portal Anggota",
+    "directory": "Direktori Anggota",
+    "contact": "Hubungi Kami",
+    "adminDashboard": "Kontrol Admin"
+  },
+  "hero": {
+    "badge": "Rotary Distrik 3830 • Didirikan 12 Maret 1966",
+    "heading": "Pelayanan di Atas Kepentingan Diri Lintas Generasi",
+    "subheading": "Klub Induk Makati memimpin pelayanan masyarakat, kepemimpinan etis, dan proyek kemanusiaan global selama lebih dari 60 tahun.",
+    "ctaExplore": "Jelajahi Dampak Kami",
+    "ctaJoin": "Menjadi Anggota Rotarian",
+    "meetingPill": "Pertemuan Mingguan: Selasa @ 12:00 siang • The Conservatory, Manila Peninsula"
+  },
+  "about": {
+    "title": "Tentang Rotary Club of Makati",
+    "subtitle": "Warisan kepemimpinan etis, pemberdayaan masyarakat, dan persahabatan global.",
+    "established": "Didirikan pada tahun 1966 sebagai klub pelayanan utama Distrik 3830."
+  },
+  "projects": {
+    "title": "Proyek Unggulan Kami",
+    "subtitle": "Membangun masyarakat di 7 Area Fokus Rotary.",
+    "viewProject": "Lihat Rincian Proyek",
+    "cleanWater": "Air Bersih, Sanitasi & Higiene",
+    "health": "Pencegahan & Pengobatan Penyakit",
+    "education": "Pendidikan Dasar & Literasi",
+    "environment": "Mendukung Lingkungan",
+    "economic": "Pengembangan Ekonomi Masyarakat",
+    "maternal": "Kesehatan Ibu & Anak",
+    "peace": "Perdamaian & Pencegahan Konflik"
+  },
+  "membership": {
+    "title": "Bergabung dengan Rotary Club of Makati",
+    "subtitle": "Terhubung dengan para pemimpin, melayani masyarakat, dan berkembang secara profesional.",
+    "applyTitle": "Formulir Pendaftaran Keanggotaan",
+    "sponsor": "Anggota Sponsor",
+    "classification": "Klasifikasi Bisnis atau Profesi"
+  },
+  "footer": {
+    "address": "The Conservatory, The Manila Peninsula, Ayala Ave cor. Makati Ave, Makati City",
+    "meetingTime": "Setiap Selasa, 12:00 Siang",
+    "rights": "Hak Cipta Dilindungi. Rotary Club of Makati."
+  },
+  "chatbot": {
+    "title": "RotaBot AI ✨",
+    "subtitle": "Asisten AI Resmi Rotary Club of Makati",
+    "welcome": "Halo! Saya RotaBot AI ✨. Ada yang bisa saya bantu terkait jadwal pertemuan, keanggotaan, atau proyek klub?",
+    "inputPlaceholder": "Ajukan pertanyaan tentang RCM...",
+    "voiceOn": "Fitur suara aktif",
+    "voiceOff": "Suara dimatikan",
+    "textFallbackNotice": "Mode teks aktif untuk bahasa ini.",
+    "suggested1": "Kapan dan di mana pertemuan mingguan berlangsung?",
+    "suggested2": "Bagaimana cara mendaftar keanggotaan?",
+    "suggested3": "Siapa Presiden RCM saat ini?",
+    "suggested4": "Apa saja proyek utama RCM?"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix TIBAY Rotary Club of Makati",
+  "description": "Official homepage of the Rotary Club of Makati - The Mother Club of Makati (Chartered March 12, 1966)",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

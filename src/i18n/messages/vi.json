@@ -1,0 +1,92 @@
+{
+  "common": {
+    "siteTitle": "Rotary Club of Makati",
+    "motherClub": "Câu lạc bộ Mẹ Makati — Thành lập năm 1966",
+    "motto": "Phục vụ Trên Hết",
+    "applyNow": "Đăng ký Ngay",
+    "signIn": "Đăng nhập",
+    "signOut": "Đăng xuất",
+    "search": "Tìm kiếm...",
+    "searchShortcut": "Nhấn / để tìm kiếm",
+    "selectCountry": "Chọn Quốc gia",
+    "countryLanguage": "Quốc gia & Ngôn ngữ",
+    "readMore": "Xem thêm",
+    "viewAll": "Xem tất cả",
+    "close": "Đóng",
+    "cancel": "Hủy",
+    "save": "Lưu",
+    "submit": "Gửi",
+    "loading": "Đang tải...",
+    "success": "Thành công",
+    "error": "Đã xảy ra lỗi",
+    "machineTranslatedNotice": "Bản dịch tiếng Việt do AI hỗ trợ. Đang trong quá trình hiệu đính bởi chuyên gia."
+  },
+  "nav": {
+    "home": "Trang chủ",
+    "about": "Về chúng tôi",
+    "history": "Lịch sử Câu lạc bộ",
+    "leadership": "Ban Lãnh đạo & Hội đồng",
+    "presidents": "Danh sách Chủ tịch",
+    "fourWayTest": "Quy tắc 4 Điều Xét",
+    "projects": "Dự án",
+    "areasOfFocus": "7 Lĩnh vực Trọng tâm",
+    "sisterClubs": "Câu lạc bộ Kết nghĩa",
+    "news": "Tin tức & Bản tin",
+    "kaunlaran": "Bản tin Kaunlaran",
+    "membership": "Hội viên",
+    "memberPortal": "Cổng Hội viên",
+    "directory": "Danh bạ Hội viên",
+    "contact": "Liên hệ",
+    "adminDashboard": "Quản trị"
+  },
+  "hero": {
+    "badge": "Rotary Quận 3830 • Thành lập ngày 12 tháng 3 năm 1966",
+    "heading": "Phục vụ Trên Hết Qua Nhiều Thế hệ",
+    "subheading": "Câu lạc bộ Mẹ Makati dẫn đầu trong các dịch vụ cộng đồng, lãnh đạo đạo đức và dự án nhân đạo toàn cầu hơn 60 năm qua.",
+    "ctaExplore": "Khám phá Tác động",
+    "ctaJoin": "Trở thành Hội viên Rotary",
+    "meetingPill": "Họp định kỳ hàng tuần: Thứ Ba @ 12:00 Trưa • The Conservatory, Manila Peninsula"
+  },
+  "about": {
+    "title": "Về Rotary Club of Makati",
+    "subtitle": "Di sản lãnh đạo đạo đức, trao quyền cộng đồng và tình hữu nghị toàn cầu.",
+    "established": "Thành lập năm 1966 là câu lạc bộ dịch vụ hàng đầu của Quận 3830."
+  },
+  "projects": {
+    "title": "Các Dự án Trọng điểm",
+    "subtitle": "Xây dựng cộng đồng qua 7 Lĩnh vực Trọng tâm của Rotary.",
+    "viewProject": "Xem chi tiết dự án",
+    "cleanWater": "Nước sạch & Vệ sinh",
+    "health": "Phòng chống & Điều trị Bệnh",
+    "education": "Giáo dục Cơ bản & Biết chữ",
+    "environment": "Bảo vệ Môi trường",
+    "economic": "Phát triển Kinh tế Cộng đồng",
+    "maternal": "Sức khỏe Sức khỏe Bào thai & Trẻ em",
+    "peace": "Xây dựng Hòa bình & Ngăn ngừa Xung đột"
+  },
+  "membership": {
+    "title": "Gia nhập Rotary Club of Makati",
+    "subtitle": "Kết nối với các nhà lãnh đạo, phục vụ cộng đồng và phát triển bản thân.",
+    "applyTitle": "Đơn đăng ký Hội viên",
+    "sponsor": "Người giới thiệu",
+    "classification": "Lĩnh vực Kinh doanh hoặc Chuyên môn"
+  },
+  "footer": {
+    "address": "The Conservatory, The Manila Peninsula, Ayala Ave cor. Makati Ave, Makati City",
+    "meetingTime": "Thứ Ba hàng tuần, 12:00 Trưa",
+    "rights": "Bản quyền thuộc về Rotary Club of Makati."
+  },
+  "chatbot": {
+    "title": "RotaBot AI ✨",
+    "subtitle": "Trợ lý AI chính thức của Rotary Club of Makati",
+    "welcome": "Xin chào! Tôi là RotaBot AI ✨. Tôi có thể giúp gì cho bạn về lịch họp, đăng ký hội viên hoặc dự án của câu lạc bộ?",
+    "inputPlaceholder": "Đặt câu hỏi về RCM...",
+    "voiceOn": "Giọng nói đang bật",
+    "voiceOff": "Tắt giọng nói",
+    "textFallbackNotice": "Đang sử dụng chế độ văn bản cho ngôn ngữ này.",
+    "suggested1": "Buổi họp hàng tuần diễn ra khi nào và ở đâu?",
+    "suggested2": "Làm thế nào để đăng ký hội viên?",
+    "suggested3": "Ai là Chủ tịch hiện tại của RCM?",
+    "suggested4": "Các dự án cộng đồng chính của RCM là gì?"
+  }
+}

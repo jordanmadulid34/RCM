@@ -1,0 +1,92 @@
+{
+  "common": {
+    "siteTitle": "Rotary Club of Makati",
+    "motherClub": "马卡蒂母会 — 成立于1966年",
+    "motto": "超我服务",
+    "applyNow": "立即申请",
+    "signIn": "登录",
+    "signOut": "退出登录",
+    "search": "搜索...",
+    "searchShortcut": "按 / 键快捷搜索",
+    "selectCountry": "选择国家/地区",
+    "countryLanguage": "国家与语言",
+    "readMore": "阅读更多",
+    "viewAll": "查看全部",
+    "close": "关闭",
+    "cancel": "取消",
+    "save": "保存",
+    "submit": "提交",
+    "loading": "加载中...",
+    "success": "操作成功",
+    "error": "发生错误",
+    "machineTranslatedNotice": "中文翻译由 AI 辅助生成，正在由母语专家审核中。"
+  },
+  "nav": {
+    "home": "首页",
+    "about": "关于我们",
+    "history": "社长历史",
+    "leadership": "理事会与官员",
+    "presidents": "历届社长名录",
+    "fourWayTest": "四大考验",
+    "projects": "服务项目",
+    "areasOfFocus": "7大焦点领域",
+    "sisterClubs": "姐妹会",
+    "news": "新闻与简讯",
+    "kaunlaran": "Kaunlaran 刊物",
+    "membership": "会员服务",
+    "memberPortal": "会员门户",
+    "directory": "会员名录",
+    "contact": "联系我们",
+    "adminDashboard": "管理控制台"
+  },
+  "hero": {
+    "badge": "国际扶轮3830地区 • 1966年3月12日成立",
+    "heading": "跨越世代的超我服务",
+    "subheading": "马卡蒂母会60多年来立足社区服务、践行道德领导力，推动全球人道主义项目。",
+    "ctaExplore": "探索我们的社会影响",
+    "ctaJoin": "加入扶轮社",
+    "meetingPill": "每周例会：每周二中午 12:00 • 曼尼拉半岛酒店 The Conservatory"
+  },
+  "about": {
+    "title": "关于马卡蒂扶轮社",
+    "subtitle": "传承道德领导力、赋能社区与全球友谊。",
+    "established": "成立于1966年，是3830地区最具影响力的服务型扶轮社。"
+  },
+  "projects": {
+    "title": "我们的核心服务项目",
+    "subtitle": "围绕国际扶轮 7 大焦点领域改善社区生活。",
+    "viewProject": "查看项目详情",
+    "cleanWater": "水资源、卫生与个人卫生",
+    "health": "疾病预防与治疗",
+    "education": "基础教育与识字",
+    "environment": "保护环境",
+    "economic": "社区经济发展",
+    "maternal": "妇幼健康",
+    "peace": "和平建设与冲突预防"
+  },
+  "membership": {
+    "title": "加入马卡蒂扶轮社",
+    "subtitle": "与各界领袖相连，服务社会，实现职业与个人成长。",
+    "applyTitle": "入会申请表",
+    "sponsor": "推荐会员",
+    "classification": "行业与专业分类"
+  },
+  "footer": {
+    "address": "The Conservatory, The Manila Peninsula, Ayala Ave cor. Makati Ave, Makati City",
+    "meetingTime": "每周二中午 12:00",
+    "rights": "版权所有。马卡蒂扶轮社。"
+  },
+  "chatbot": {
+    "title": "RotaBot AI ✨",
+    "subtitle": "马卡蒂扶轮社官方 AI 智能助手",
+    "welcome": "您好！我是 RotaBot AI ✨。请问有什么可以帮您？我可以解答例会时间、入会流程或服务项目等问题。",
+    "inputPlaceholder": "请输入有关马卡蒂扶轮社的问题...",
+    "voiceOn": "语音播报已开启",
+    "voiceOff": "语音已静音",
+    "textFallbackNotice": "当前语言使用文本回复模式。",
+    "suggested1": "每周例会的时间和地点在哪里？",
+    "suggested2": "如何申请加入扶轮社？",
+    "suggested3": "现任马卡蒂扶轮社社长是谁？",
+    "suggested4": "扶轮社有哪些核心服务项目？"
+  }
+}
