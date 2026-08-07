@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import defaultFallbackImg from '../assets/images/rotary_connect.jpg';
 
 interface ImageWithFallbackProps extends React.ImgHTMLAttributes<HTMLImageElement> {
   src: string;
@@ -8,7 +9,7 @@ interface ImageWithFallbackProps extends React.ImgHTMLAttributes<HTMLImageElemen
   fallbackText?: string;
 }
 
-const DEFAULT_FALLBACK_IMAGE = '/assets/images/rotary_connect.jpg';
+const DEFAULT_FALLBACK_IMAGE = defaultFallbackImg;
 
 export const ImageWithFallback: React.FC<ImageWithFallbackProps> = ({
   src,

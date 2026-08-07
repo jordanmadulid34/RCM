@@ -1,5 +1,6 @@
 import React from 'react';
 import { ThemeType } from '../types';
+import rotaryWheelLogo from '../assets/logo/rotary-wheel-transparent.png';
 
 interface RCMLogoProps {
   className?: string;
@@ -11,7 +12,10 @@ interface RCMLogoProps {
 export const RotaryWheelSVG: React.FC<{ className?: string }> = ({ className = 'w-10 h-10' }) => {
   return (
     <img
-      src="/logo/rotary-wheel-transparent.png"
+      src={rotaryWheelLogo}
+      onError={(e) => {
+        (e.target as HTMLImageElement).src = '/logo/rotary-wheel-transparent.png';
+      }}
       alt="Rotary International Wheel Logo"
       className={`object-contain inline-block ${className}`}
     />
@@ -38,7 +42,10 @@ export const RCMLogo: React.FC<RCMLogoProps> = ({
     >
       {/* Official Rotary Wheel Logo on the left */}
       <img
-        src="/logo/rotary-wheel-transparent.png"
+        src={rotaryWheelLogo}
+        onError={(e) => {
+          (e.target as HTMLImageElement).src = '/logo/rotary-wheel-transparent.png';
+        }}
         alt="Rotary International Logo"
         className={`object-contain shrink-0 drop-shadow-md group-hover:scale-[1.03] transition-transform duration-300 ${imgSizeClass}`}
       />

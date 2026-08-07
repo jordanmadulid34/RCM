@@ -3,6 +3,7 @@
 // News tab restructured into 4 categories matching rotaryclubmakati.org's own nav (Kaunlaran / News / RCM in the News / RC Makati Video-News). 'RCM in the News' is an honest placeholder — populate once press mentions are sourced.
 
 import React, { useState, useEffect, useRef } from 'react';
+import brotherhoodAgreementImg from '../assets/images/brotherhood_agreement.jpg';
 import {
   Newspaper,
   Calendar,
@@ -780,7 +781,7 @@ const RCM_IN_THE_NEWS_POSTS: ExternalNewsItem[] = [
     categoryTag: 'RCM in the News',
     headline: 'RC Makati Signs a Brotherhood Agreement with RC Metro Kalibo',
     date: 'July 2024',
-    imageUrl: '/assets/images/brotherhood_agreement.jpg',
+    imageUrl: brotherhoodAgreementImg,
     excerpt:
       'President Keith Harrison formalized a Brotherhood Agreement with RC Metro Kalibo, building on five years of joint projects between the two clubs — from disaster response to education support. The signing took place during RC Makati\'s 59th Induction, drawing member clubs from across the Philippines as well as Singapore and Malaysia.',
     readMoreUrl: 'https://www.philippinerotarymagazine.com/post/rc-makati-signs-a-brotherhood-agreemeent-with-rc-metro-kalibo',

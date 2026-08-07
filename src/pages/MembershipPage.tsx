@@ -72,68 +72,84 @@ import {
 } from '../services/notificationService';
 import { calculateInterviewWeek } from '../utils/dateUtils';
 
+import banner1 from '../assets/membership-banner/1.jpeg';
+import banner2 from '../assets/membership-banner/2.jpeg';
+import banner3 from '../assets/membership-banner/3.jpeg';
+import banner4 from '../assets/membership-banner/4.jpeg';
+import banner5 from '../assets/membership-banner/5.jpeg';
+import banner6 from '../assets/membership-banner/6.jpeg';
+import banner7 from '../assets/membership-banner/7.jpeg';
+import banner8 from '../assets/membership-banner/8.jpeg';
+import banner9 from '../assets/membership-banner/9.jpeg';
+
+import rotaryConnectImg from '../assets/images/rotary_connect.jpg';
+import rotaryPeaceImg from '../assets/images/rotary_peace.jpg';
+import rotaryTransformImg from '../assets/images/rotary_transform.jpg';
+import brotherhoodAgreementImg from '../assets/images/brotherhood_agreement.jpg';
+import rotarySaveLivesImg from '../assets/images/rotary_savelives.jpg';
+
 const MEMBERSHIP_HERO_SLIDES = [
   {
     id: 1,
     theme: 'Connect',
-    src: '/membership-banner/1.jpeg',
-    fallbackSrc: '/assets/images/rotary_connect.jpg',
+    src: banner1,
+    fallbackSrc: rotaryConnectImg,
     alt: 'Rotary People of Action — Together, We Connect (Bel-Air)',
   },
   {
     id: 2,
     theme: 'Connect',
-    src: '/membership-banner/2.jpeg',
-    fallbackSrc: '/assets/images/rotary_connect.jpg',
+    src: banner2,
+    fallbackSrc: rotaryConnectImg,
     alt: 'Rotary People of Action — Together, We Connect (Southwest)',
   },
   {
     id: 3,
     theme: 'Promote Peace',
-    src: '/membership-banner/3.jpeg',
-    fallbackSrc: '/assets/images/rotary_peace.jpg',
+    src: banner3,
+    fallbackSrc: rotaryPeaceImg,
     alt: 'Rotary People of Action — Together, We Promote Peace',
   },
   {
     id: 4,
     theme: 'Transform',
-    src: '/membership-banner/4.jpeg',
-    fallbackSrc: '/assets/images/rotary_transform.jpg',
+    src: banner4,
+    fallbackSrc: rotaryTransformImg,
     alt: 'Rotary People of Action — Together, We Transform',
   },
   {
     id: 5,
     theme: 'Fight Hunger',
-    src: '/membership-banner/5.jpeg',
-    fallbackSrc: '/assets/images/brotherhood_agreement.jpg',
+    src: banner5,
+    fallbackSrc: brotherhoodAgreementImg,
     alt: 'Rotary People of Action — Together, We Fight Hunger',
   },
   {
     id: 6,
     theme: 'Connect',
-    src: '/membership-banner/6.jpeg',
-    fallbackSrc: '/assets/images/rotary_connect.jpg',
+    src: banner6,
+    fallbackSrc: rotaryConnectImg,
     alt: 'Rotary People of Action — Together, We Connect',
   },
   {
     id: 7,
     theme: 'Connect',
-    src: '/membership-banner/7.jpeg',
-    fallbackSrc: '/assets/images/rotary_connect.jpg',
+    src: banner7,
+    fallbackSrc: rotaryConnectImg,
     alt: 'Rotary People of Action — Together, We Connect in Community',
   },
   {
     id: 8,
     theme: 'Save Lives',
-    src: '/membership-banner/8.jpeg',
-    fallbackSrc: '/assets/images/rotary_savelives.jpg',
+    src: banner8,
+    fallbackSrc: rotarySaveLivesImg,
     alt: 'Rotary People of Action — Together, We Save Lives (Chronic Kidney Disease)',
   },
   {
     id: 9,
     theme: 'Save Lives',
-    src: '/membership-banner/9.jpeg',
-    fallbackSrc: '/assets/images/rotary_savelives.jpg',
+    src: banner9,
+    fallbackSrc: rotarySaveLivesImg,
     alt: 'Rotary People of Action — Together, We Save Lives (Blood Donation)',
   },
 ];

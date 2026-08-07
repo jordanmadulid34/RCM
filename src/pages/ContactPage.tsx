@@ -19,6 +19,7 @@ import {
 } from 'lucide-react';
 import { ThemeType } from '../types';
 import { RCM_INFO } from '../data/rcmData';
+import banner1 from '../assets/membership-banner/1.jpeg';
 
 interface ContactPageProps {
   theme: ThemeType;
@@ -31,7 +32,7 @@ const CONNECT_BG_PHOTOS = [
   {
     id: 0,
     src: ATTACHMENT_BG_LINK,
-    fallbackSrc: '/membership-banner/1.jpeg',
+    fallbackSrc: banner1,
     alt: 'Rotary Club of Makati Secretariat Headquarters',
   },
   {
