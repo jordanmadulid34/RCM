@@ -3,13 +3,13 @@ import path from 'path';
 import dotenv from 'dotenv';
 import { createServer as createViteServer } from 'vite';
 import { GoogleGenAI } from '@google/genai';
-import { announcementSchema } from './src/lib/announcementsSchema.js';
-import { WEBSITE_KNOWLEDGE_BASE, isRcmRelatedQuery } from './src/data/websiteKnowledgeBase.js';
+import { announcementSchema } from './src/lib/announcementsSchema';
+import { WEBSITE_KNOWLEDGE_BASE, isRcmRelatedQuery } from './src/data/websiteKnowledgeBase';
 
 dotenv.config();
 
 const app = express();
-const PORT = 3000;
+const PORT = process.env.PORT ? parseInt(process.env.PORT, 10) : 3000;
 
 app.use(express.json({ limit: '10mb' }));
 app.use(express.static(path.join(process.cwd(), 'public')));
